@@ -1,0 +1,68 @@
+﻿* {
+    padding: 0; margin: 0; 
+}
+
+body {
+    background: #afd7d5;
+}
+
+canvas {
+    background: #eee;
+    display: block;
+    margin: 0;
+    margin-bottom: 100px;
+}
+
+#scoreBoardLeft {
+    padding-right: 1px;
+    padding-left: 1px;
+    width: 300px;
+}
+
+#scoreBoardRight {
+    padding-left: 1px;
+    width: 300px;
+}
+
+#leftScore {
+    width: 50px !important;
+}
+
+#rightScore {
+    width: 50px !important;
+}
+
+.progress {
+    margin-bottom: 1px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    height: 10px !important;
+    width: 300px;
+    padding-left: 1px;
+    padding-right: 1px;
+
+}
+
+#progress-striped active {
+    padding-right: 1px;
+}
+
+#pong {
+    padding: 0;
+    margin: 0;
+    width: 600px;
+}
+
+.container {
+    width: 600px !important;
+    padding: 0;
+    margin-top: 4%;
+}
+
+/*BootStrap Overrides*/
+
+.jumbotron {
+    margin: 0, 0, 0, 0 !important;
+    padding: 15px !important;;
+    
+}
