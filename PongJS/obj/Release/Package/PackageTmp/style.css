@@ -66,3 +66,7 @@ canvas {
     padding: 15px !important;;
     
 }
+
+#score-board {
+    margin-bottom: 5px;
+}
